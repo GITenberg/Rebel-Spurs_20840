@@ -1,0 +1,46 @@
+_repo: Rebel-Spurs_20840
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Norton, Andre
+    aliases:
+    - North, Andrew
+    - Norton, Alice Mary
+    - Norton, Andre Alice
+    birthdate: 1912
+    deathdate: 2005
+    gutenberg_agent_id: '7021'
+    url: http://www.gutenberg.org/2009/agents/7021
+    wikipedia: http://en.wikipedia.org/wiki/Andre_Norton
+description: 'Rebel Spurs is a novel that begins in the aftermath of the Civil War.
+  In 1866, only men uprooted by war had reason to ride into Tubacca, Arizona -- a
+  nondescript town as shattered and anonymous as the veterans drifting through it.
+  So when Drew Rennie, newly discharged from Forrest''s Confederate scouts, arrives
+  leaving everything he owned behind him -- his thoroughbred stud Shiloh, a mare about
+  to foal, and a mule -- he knows his business will not be questioned. To anyone in
+  Tubacca there could be only one extraordinary thing about Drew, and that he could
+  not reveal: his name, Rennie.'
+gutenberg_bookshelf: Western
+gutenberg_issued: '2007-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20840'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fathers and sons -- Fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Veterans -- United States -- 19th century -- Fiction'
+- !lcsh 'False personation -- Fiction'
+- !lcsh 'False arrest -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Arizona -- Fiction'
+title: Rebel Spurs
+url: http://www.gutenberg.org/ebooks/20840
